@@ -6,4 +6,8 @@
 
 Based on the Waveshare ePaper shield. Includes links to parametric search for critical components.  
 
+<p align="center">
+  <img src="img/board.jpg" alt="Board"/>
+</p>
+
 **Please refer to the datasheet for your specific driver IC to confirm component values and specifications.**
